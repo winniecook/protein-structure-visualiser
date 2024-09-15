@@ -45,13 +45,6 @@ This project provides a Python-based tool for analyzing and visualizing protein 
 - Adjust the secondary structure assignment criteria in the `assign_secondary_structure()` function if needed.
 - Modify the color scheme for the 3D visualization in the `visualize_structure()` function.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/yourusername/protein-structure-analyzer/issues) if you want to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
