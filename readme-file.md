@@ -28,7 +28,7 @@ This project provides a Python-based tool for analyzing and visualizing protein 
 
 1. Run the script with Python:
    ```
-   python protein_structure_analyzer.py
+   python advanced-protein-structure-visualiser-5.py
    ```
 
 2. By default, the script analyzes the hemoglobin structure (PDB ID: 1GZX). To analyze a different protein, modify the `pdb_id` variable in the `main()` function.
