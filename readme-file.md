@@ -15,8 +15,8 @@ This project provides a Python-based tool for analyzing and visualizing protein 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/protein-structure-analyzer.git
-   cd protein-structure-analyzer
+   git clone https://github.com/winniecook/python-protein-visualiser.git
+   cd python-protein-visualiser
    ```
 
 2. Install the required dependencies:
