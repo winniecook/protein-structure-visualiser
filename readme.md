@@ -18,7 +18,7 @@ An interactive R Shiny application for visualising and analysing protein structu
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/protein-structure-visualiser.git
+git clone https://github.com/winniecook/protein-structure-visualiser.git
 cd protein-structure-visualiser
 ```
 
