@@ -1,2 +1,1 @@
-# python-protein-visualiser
-Protein Structure Analyzer: A Python tool for analyzing and visualizing protein structures, including Ramachandran plots and 3D structure visualization with color-coded secondary structures.
+An R Shiny web application for analysing and visualising protein structures. Originally developed in Python, now reimplemented in R Shiny for improved interactivity and web accessibility.
